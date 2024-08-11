@@ -1,0 +1,45 @@
+[
+    {
+      "id": 1,
+      "title": "Sistema de Alarma Inalámbrico",
+      "category": "Alarmas",
+      "description": "Sistema de alarma inalámbrico con sensor de movimiento y notificaciones móviles.",
+      "pictureURL": "https://backend.intelbras.com/sites/default/files/2021-04/sistema-8000-sistema-de-alarma-inalambrico.jpg",
+      "price": 85.50
+    },
+    {
+      "id": 2,
+      "title": "Videocámara de Timbre Inteligente",
+      "category": "Camaras",
+      "description": "Timbre inteligente con cámara HD, micrófono y altavoz integrados.",
+      "pictureURL": "https://www.tecnoseguro.com/media/k2/items/cache/4e8d9259f08d5f347ea95c61fdaf3c46_XL.jpg",
+      "price": 99.99
+    },
+    {
+      "id": 3,
+      "title": "Detector de Humo",
+      "category":  "Alarmas",
+      "description": "Detector de humo inteligente con alertas en tiempo real a tu smartphone.",
+      "pictureURL": "https://blogseguridadcontraincendios.com/wp-content/uploads/2016/07/Detectores-de-humo.jpg",
+      "price": 49.99
+    },
+    {
+      "id": 4,
+      "title": "Sensor de Movimiento Inalámbrico",
+      "category":  "Alarmas",
+      "description": "Sensor de movimiento inalámbrico con alcance de 12 metros.",
+      "pictureURL": "https://www.biosegur.com.ar/images/P98.jpg",
+      "price": 25.99
+    },
+    
+    {
+      "id": 5,
+      "title": "Sirena de Alarma Externa",
+      "category": "Alarmas",
+      "description": "Sirena de alarma externa con luz estroboscópica y 120 dB de potencia.",
+      "pictureURL": "https://www.garnet.com.ar/var/alonsohnos_com/storage/images/productos/sirenas/sirena-exterior-mp-1000.-piezoelectrica-con-flash/mp-1000/44844-4-esl-AR/MP-1000.png",
+      "price": 70.00
+    }
+]
+    
+  
